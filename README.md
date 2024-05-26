@@ -20,7 +20,7 @@ a full stack Next.Js develover from Indonesia.
 ### Here are some of the projects I've worked on and am currently working on:
 - [Lazora](https://lazora.vercel.app/)
 - [Bisa Ujian](https://bisaujian.vercel.app/)
-- [Moi UI](https://moiui.vercel.app/)
+- [Moi UI](https://moiui.netlify.app/)
 - [School Web App(sman 1 mandirancan)](https://sman1mandirancan.vercel.app/)
 - [Box Movie](https://box-movie.netlify.app/)
 
