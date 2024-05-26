@@ -1,7 +1,7 @@
-### Hi I'm Soni 👋
+## Hi I'm Soni 👋
 a full stack Next.Js develover from Indonesia.
 <br/>
-##### Some Tech Stacks that I use often:
+### Some Tech Stacks that I use often:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,7 +17,7 @@ a full stack Next.Js develover from Indonesia.
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### Here are some of the projects I've worked on and am currently working on:
+### Here are some of the projects I've worked on and am currently working on:
 - [Lazora](https://lazora.vercel.app/)
 - [Bisa Ujian](https://bisaujian.vercel.app/)
 - [Moi UI](https://moiui.vercel.app/)
