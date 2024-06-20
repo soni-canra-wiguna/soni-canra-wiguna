@@ -1,5 +1,5 @@
 ## Hi I'm Soni 👋
-a full stack Next.Js develover from Indonesia.
+a Fulltack Developer from Indonesia.
 <br/>
 ### Some Tech Stacks that I use often:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
