@@ -17,6 +17,7 @@ a Fulltack Developer from Indonesia.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Here are some of the projects I've worked on and am currently working on:
+- [Nota Core](https://notacore.vercel.app/)
 - [Lazora](https://lazora.vercel.app/)
 - [Bisa Ujian](https://bisaujian.vercel.app/)
 - [Moi UI](https://moiui.netlify.app/)
