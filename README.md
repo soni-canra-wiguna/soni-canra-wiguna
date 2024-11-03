@@ -1,5 +1,5 @@
 ## Hi I'm Soni 👋
-a Fulltack Developer from Indonesia.
+a Frontend developer who is interested and enthusiastic about Fullstack development.
 <br/>
 ### Some Tech Stacks that I use often:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
